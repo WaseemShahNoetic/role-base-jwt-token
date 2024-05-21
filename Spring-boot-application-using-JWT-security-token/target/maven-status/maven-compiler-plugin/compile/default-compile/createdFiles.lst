@@ -1,0 +1,5 @@
+com\springBootJWTtoken\service\JwtUserDetailsService.class
+com\springBootJWTtoken\Application.class
+com\springBootJWTtoken\config\JwtTokenUtil.class
+com\springBootJWTtoken\controller\JwtAuthenticationController.class
+com\springBootJWTtoken\model\JwtRequest.class
